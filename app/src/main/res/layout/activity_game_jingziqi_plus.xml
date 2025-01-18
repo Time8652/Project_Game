@@ -81,6 +81,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
             <ImageView
@@ -88,6 +89,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
             <ImageView
@@ -95,6 +97,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
         </LinearLayout>
@@ -110,6 +113,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
             <ImageView
@@ -117,6 +121,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
             <ImageView
@@ -124,6 +129,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
         </LinearLayout>
@@ -139,6 +145,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
             <ImageView
@@ -146,6 +153,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
             <ImageView
@@ -153,6 +161,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="4dp"
+                android:scaleType="centerInside"
                 android:background="@color/gray_background" />
 
         </LinearLayout>
